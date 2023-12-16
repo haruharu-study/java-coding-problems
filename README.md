@@ -4,4 +4,9 @@
 
 ## 스터디
 
+### 프로젝트
+
+- 빌드: gradle
+- eclipse temurin JDK17 
+
 ## 일정
